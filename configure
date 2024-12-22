@@ -6,7 +6,7 @@
 #
 # Requires git and cmake
 #
-export SimpleITKGit=git@gitcode.com:yzhizai/SimpleITK.git
+export SimpleITKGit=https://gitcode.com/yzhizai/SimpleITK.git
 export SITKTAG=v2.4.0
 
 export PKGBASED=$(pwd)
